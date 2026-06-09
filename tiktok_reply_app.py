@@ -12,7 +12,7 @@ L_SID = 7904
 
 # Panel 2: Replyevi
 R_URL = "https://dnoxsmm.com/api/v2"
-R_KEY = "8e1e447b6a8ba2189d0afcd04487c5b"
+R_KEY = "93c7585d3928b29f7ceb4fb6faa93e1c"
 R_SID = 4575
 
 # TVOJE LISTE
